@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Igbayilola. 
-- 🌿 A UI/UX designer + frontend developer Currently exploring the intersection of design, storytelling, and code to build products that make a difference.  
+- 🌿 A Product designer + frontend developer Currently exploring the intersection of design, storytelling, and code to build products that make a difference.  
 - 👀 I’m interested in Design systems, UI/UX research, frontend development, and creating impactful, accessible web experiences.
 - 🌱 I’m currently learning advanced JavaScript, responsive web design, and UX best practices.
 - 💞️ I’m looking to collaborate on frontend projects that need a design + code hybrid, UI/UX design case studies and challenges, Open source design or frontend contributions and impactful digital products.
